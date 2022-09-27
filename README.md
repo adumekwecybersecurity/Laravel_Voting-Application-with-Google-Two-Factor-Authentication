@@ -121,4 +121,3 @@
 
 # Staff login link:  http://studentvoting.local/staff/login
 
-# SYSTEM VIEW-SNAPSHOTS
